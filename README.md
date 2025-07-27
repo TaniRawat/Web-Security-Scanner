@@ -102,13 +102,13 @@ Make sure the following are installed:
 
 📦 Installation
 
-# Clone the repository
+Clone the repository
 ```bash
 git clone https://github.com/TaniRawat/Web-Security-Scanner.git
 cd Web-Security-Scanner
 ```
 
-# Create and activate a virtual environment
+Create and activate a virtual environment
 ```bash
 python -m venv venv
 .\venv\Scripts\activate   # On Windows
@@ -151,10 +151,10 @@ Want to make your scanner public?
 
 ---
 
-👨‍💻 Author
+👨‍💻 Author & Credits
 
 **Tanishq R.**
-GitHub: [@YourGitHubUsername](https://github.com/TaniRawat)
+GitHub: @TaniRawat)
 Passionate about cybersecurity and full-stack development.
 
 ---
