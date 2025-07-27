@@ -20,7 +20,7 @@ A powerful, full-stack web application designed to perform **comprehensive secur
 🔹 **🌐 Live Dashboard Example**
 *View scan statistics, charts, and history.*
 
-<img width="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/d16f2b51-e692-43bd-b0e2-b50e1d15b51f" />
+<img width="1919" height="1015" alt="Screenshot 2025-07-27 164903" src="https://github.com/user-attachments/assets/c4262b43-8285-4680-8e57-b08196b91154" />
 
 🔹 **Detailed Report View**
 *See vulnerability details and past scan comparisons.*
