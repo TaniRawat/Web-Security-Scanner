@@ -153,8 +153,8 @@ Want to make your scanner public?
 
 👨‍💻 Author & Credits
 
-**Tanishq R.**
-GitHub: @TaniRawat)
+**Tanishq Rawat**
+(GitHub: https://github.com/TaniRawat)
 Passionate about cybersecurity and full-stack development.
 
 ---
