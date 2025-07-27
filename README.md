@@ -102,19 +102,21 @@ Make sure the following are installed:
 
 📦 Installation
 
-bash
 # Clone the repository
+```bash
 git clone https://github.com/TaniRawat/Web-Security-Scanner.git
 cd Web-Security-Scanner
+```
 
 # Create and activate a virtual environment
+```bash
 python -m venv venv
 .\venv\Scripts\activate   # On Windows
 # source venv/bin/activate   # On Linux/macOS
 
 # Install dependencies
 pip install -r requirements.txt
-
+```
 
 ---
 
