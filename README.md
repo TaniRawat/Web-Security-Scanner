@@ -1,5 +1,7 @@
 # 🛡️ Web Security Scanner
 
+> **Live Now at:** [hackersgonnahack.pythonanywhere.com](https://hackersgonnahack.pythonanywhere.com)  
+> Scan your websites for vulnerabilities in real-time with automated intelligence and sleek reporting dashboards.
 A powerful, full-stack web application designed to perform **comprehensive security assessments** of websites. Analyze, detect, and track vulnerabilities with beautiful interactive reports and dashboards.
 
 ---
@@ -12,9 +14,9 @@ A powerful, full-stack web application designed to perform **comprehensive secur
 
 ---
 
-📸 Screenshots
+📸 Live Preview
 
-🔹 **Interactive Dashboard**
+🔹 **🌐 Live Dashboard Example**
 *View scan statistics, charts, and history.*
 
 <img width="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/d16f2b51-e692-43bd-b0e2-b50e1d15b51f" />
