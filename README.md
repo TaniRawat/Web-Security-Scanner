@@ -22,8 +22,9 @@ A powerful, full-stack web application designed to perform **comprehensive secur
 🔹 **Detailed Report View**
 *See vulnerability details and past scan comparisons.*
 
-<img width="45%" alt="Report 1" src="https://github.com/user-attachments/assets/5486b64b-77aa-4eb7-b7e3-a44f15f12cc3" />
-<img width="45%" alt="Report 2" src="https://github.com/user-attachments/assets/9e6d4786-50fc-4af8-9375-0d93e070ecb2" />
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/4dffcacc-c9d2-4242-a7a9-ec6d982cde7f" />
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/96f2e2af-2e1b-41ce-924a-fe380b539a66" />
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/f827ec77-fa27-4127-ad72-db51e67285f2" />
 
 ---
 
