@@ -1,4 +1,4 @@
-🛡️ Web Security Scanner
+#**🛡️ Web Security Scanner**
 
 A powerful, full-stack web application designed to perform **comprehensive security assessments** of websites. Analyze, detect, and track vulnerabilities with beautiful interactive reports and dashboards.
 
